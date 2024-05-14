@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👋 Hi, I’m abljiu
--  learning Linux/C++/OS
+-  learning Linux/C++/Golang/OS
 - find me at **18629421952@163.com**
 
 
